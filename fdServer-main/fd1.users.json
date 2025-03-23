@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "67dd58a58072a04adeceb23e"
+  },
+  "email": "khelan05@gmail.com",
+  "name": "khelan mehta",
+  "address": "surat",
+  "macAddresses": [
+    "8b94907faecb797ba0232e92b0f4100c"
+  ],
+  "verifiedOtp": false,
+  "mobileNumber": "7574001711",
+  "password": "$2b$10$GwyAE1VxCvB0PIsb44f58e04NLBunbYPF2HSZSuzZwvy4vVtLNwBW",
+  "amountAvailable": 2000,
+  "isLoggedIn": false,
+  "isKYCVerified": false,
+  "__v": 0,
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImtoZWxhbjA1QGdtYWlsLmNvbSIsInN1YiI6IjY3ZGQ1OGE1ODA3MmEwNGFkZWNlYjIzZSIsImlhdCI6MTc0MjYyMDk1NCwiZXhwIjoxNzQ1MjEyOTU0fQ.0qquzpQkI5vWm37Myx4eTKJMknkqDyPr93Phg3exY5k"
+},
+{
+  "_id": {
+    "$oid": "67de48f775d735a828460fc5"
+  },
+  "email": "patelnitya1511@gmail.com",
+  "name": "Nitya Patel",
+  "address": "surat",
+  "macAddresses": [
+    "14f5a4b512016ac731d341895cbe3a62"
+  ],
+  "verifiedOtp": false,
+  "mobileNumber": "9879536669",
+  "password": "$2b$10$PHJj3.I6iM.T9S3FZ1qEtegNhnFHtVgYfha6OukXDAPGiIhW2U/gC",
+  "amountAvailable": 2000,
+  "isLoggedIn": false,
+  "isKYCVerified": false,
+  "__v": 0,
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2RlNDhmNzc1ZDczNWE4Mjg0NjBmYzUiLCJtb2JpbGVOdW1iZXIiOiI5ODc5NTM2NjY5IiwiaWF0IjoxNzQyNjIwOTE5LCJleHAiOjE3NDUyMTI5MTl9._n2m5XNCpdiolkB-mgCtpuh5f_-VZohOo4I4vR5AGlQ"
+}]

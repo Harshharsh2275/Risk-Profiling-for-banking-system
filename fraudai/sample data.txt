@@ -1,0 +1,12 @@
+data = [
+    {"Transaction_ID": "TXN001", "Amount": 5000, "MAC_Address": "00:1A:2B:3C:4D:5E", "Sender_Location": "New York", "Receiver_Location": "New York", "Timestamp": "2025-03-20 14:35:00", "Fraudulent": "No"},
+    {"Transaction_ID": "TXN002", "Amount": 25000, "MAC_Address": "11:22:33:44:55:66", "Sender_Location": "California", "Receiver_Location": "Nevada", "Timestamp": "2025-03-21 23:50:00", "Fraudulent": "Yes"},
+    {"Transaction_ID": "TXN003", "Amount": 1500, "MAC_Address": "AA:BB:CC:DD:EE:FF", "Sender_Location": "Texas", "Receiver_Location": "Texas", "Timestamp": "2025-03-19 10:15:00", "Fraudulent": "No"},
+    {"Transaction_ID": "TXN004", "Amount": 48000, "MAC_Address": "66:77:88:99:AA:BB", "Sender_Location": "Illinois", "Receiver_Location": "Mexico", "Timestamp": "2025-03-18 03:45:00", "Fraudulent": "Yes"},
+    {"Transaction_ID": "TXN005", "Amount": 3200, "MAC_Address": "CC:DD:EE:FF:11:22", "Sender_Location": "Florida", "Receiver_Location": "Florida", "Timestamp": "2025-03-22 16:10:00", "Fraudulent": "No"},
+    {"Transaction_ID": "TXN006", "Amount": 78000, "MAC_Address": "55:44:33:22:11:00", "Sender_Location": "India", "Receiver_Location": "Russia", "Timestamp": "2025-03-22 02:30:00", "Fraudulent": "Yes"},
+    {"Transaction_ID": "TXN007", "Amount": 870, "MAC_Address": "77:88:99:AA:BB:CC", "Sender_Location": "France", "Receiver_Location": "France", "Timestamp": "2025-03-23 12:05:00", "Fraudulent": "No"},
+    {"Transaction_ID": "TXN008", "Amount": 21500, "MAC_Address": "EE:FF:00:11:22:33", "Sender_Location": "Germany", "Receiver_Location": "Nigeria", "Timestamp": "2025-03-23 04:20:00", "Fraudulent": "Yes"},
+    {"Transaction_ID": "TXN009", "Amount": 6900, "MAC_Address": "99:AA:BB:CC:DD:EE", "Sender_Location": "Canada", "Receiver_Location": "Canada", "Timestamp": "2025-03-24 15:40:00", "Fraudulent": "No"},
+    {"Transaction_ID": "TXN010", "Amount": 500000, "MAC_Address": "33:22:11:00:FF:EE", "Sender_Location": "USA", "Receiver_Location": "China", "Timestamp": "2025-03-25 01:55:00", "Fraudulent": "Yes"}
+]
